@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'OpenCourseMatch Documentation'
+
+[module]
+    [[module.imports]]
+        path = "github.com/colinwilson/lotusdocs"
+        disable = false
+    [[module.imports]]
+        path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+        disable = false
+
+[params]
+    [params.footer]
+        copyright = "OpenCourseMatch Documentation"
+        version = "a3.0.0"
+
+    [params.social]
+        github = "OpenCourseMatch"
+
+    [params.docs]
+        title = "OpenCourseMatch Documentation"
+        themeColor = "green"
+        darkMode = true
