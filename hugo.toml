@@ -22,3 +22,5 @@ title = 'OpenCourseMatch Documentation'
         title = "OpenCourseMatch Documentation"
         themeColor = "green"
         darkMode = true
+        sidebarIcons=true
+        titleIcon = true
