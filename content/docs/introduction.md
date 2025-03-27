@@ -15,3 +15,12 @@ The application is built on the principles of open-source software, allowing for
 By making the source code available to the public, we encourage contributions from developers, educators, and researchers to enhance the functionality and performance of the application.
 
 ## Core Features
+
+The core features of the application include:
+
+- Creating accounts manually or by importing them from a CSV file
+- Registering courses with their respective constraints
+- Saving course preferences
+- assigning the users to the courses automatically with the algorithm
+- Optimizing the generated assignments manually
+- Generating reports for the assignments
