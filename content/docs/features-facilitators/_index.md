@@ -1,5 +1,5 @@
 ---
-weight: 500
+weight: 400
 title: "Facilitator Features"
 description: "TODO"
 icon: "settings_suggest"
