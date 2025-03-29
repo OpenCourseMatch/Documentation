@@ -5,3 +5,13 @@ description: "TODO"
 icon: "settings_suggest"
 author: "OpenCourseMatch"
 ---
+
+## Access the Web Application
+
+## Login
+
+## Dashboard
+
+## Change Password
+
+## Logout
