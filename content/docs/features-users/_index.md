@@ -5,3 +5,5 @@ description: "TODO"
 icon: "settings_suggest"
 author: "OpenCourseMatch"
 ---
+
+## Choose Courses
