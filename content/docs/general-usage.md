@@ -1,7 +1,7 @@
 ---
 weight: 200
 title: "General Usage"
-description: "TODO"
+description: "Basic principles of using the OpenCourseMatch application"
 icon: "settings_suggest"
 author: "OpenCourseMatch"
 ---
