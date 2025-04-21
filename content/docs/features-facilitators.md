@@ -2,7 +2,7 @@
 weight: 400
 title: "Facilitator Features"
 description: "TODO"
-icon: "settings_suggest"
+icon: "tips_and_updates"
 author: "OpenCourseMatch"
 ---
 

@@ -2,7 +2,7 @@
 weight: 200
 title: "General Usage"
 description: "Basic principles of using the OpenCourseMatch application"
-icon: "settings_suggest"
+icon: "tips_and_updates"
 author: "OpenCourseMatch"
 ---
 

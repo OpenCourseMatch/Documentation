@@ -2,7 +2,7 @@
 weight: 300
 title: "User Features"
 description: "TODO"
-icon: "settings_suggest"
+icon: "tips_and_updates"
 author: "OpenCourseMatch"
 ---
 
