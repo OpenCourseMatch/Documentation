@@ -1,7 +1,7 @@
 ---
 weight: 400
 title: "Facilitator Features"
-description: "TODO"
+description: "Features available to facilitators of the OpenCourseMatch application"
 icon: "tips_and_updates"
 author: "OpenCourseMatch"
 ---

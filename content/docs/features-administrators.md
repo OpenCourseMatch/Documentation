@@ -1,7 +1,7 @@
 ---
 weight: 550
 title: "Administrator Features"
-description: "TODO"
+description: "Features available to administrators of the OpenCourseMatch application"
 icon: "tips_and_updates"
 author: "OpenCourseMatch"
 ---
