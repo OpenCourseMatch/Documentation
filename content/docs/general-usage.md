@@ -16,7 +16,7 @@ Its URL is specified during the setup process (see [Deployment & Setup](/docs/de
 Each user has an own account with a unique username and a password.
 Later sections describe how these credentials are created.
 
-![Login page](/img/login-page.png)
+![Login page](https://docs.opencoursematch.org/img//login-page.png)
 
 ## Dashboard
 
