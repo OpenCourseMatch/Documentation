@@ -43,4 +43,20 @@ It can be edited by clicking on `Edit choice`, which opens the selection menu.
 
 ### Import User Accounts from CSV
 
+Facilitators can import multiple user accounts from a CSV file at once by navigating to `Participants and tutors` > `Import users`.
+
+The CSV file must contain the columns
+
+- **First name**
+- **Last name**
+
+and the first line is not ignored.
+
+Besides the CSV file, the facilitator can select a group for the users, which determines the courses they can choose from, and a password for all users.
+
 ### Group Actions
+
+Facilitators can perform group actions on multiple user accounts by navigating to `Participants and tutors` > `Group actions`.
+
+In the form, they have to select the affected group.
+Next, they can choose to reset the password for all users in the group, move all users to another group, or delete all users in the group.
