@@ -1,22 +1,16 @@
----
-weight: 200
-title: "General Usage"
-description: "Basic principles of using the OpenCourseMatch application"
-icon: "tips_and_updates"
-author: "OpenCourseMatch"
----
+# General Usage
 
 ## Access the Web Application
 
 The OpenCourseMatch web application is accessible through a web browser.
-Its URL is specified during the setup process (see [Deployment & Setup](/docs/deployment-and-setup)).
+Its URL is specified during the setup process (see [Deployment & Setup](06-deployment-and-setup.md)).
 
 ## Login
 
 Each user has an own account with a unique username and a password.
 Later sections describe how these credentials are created.
 
-![Login page](https://docs.opencoursematch.org/img/login-page.png)
+![Login page](assets/login-page.png)
 
 ## Dashboard
 
