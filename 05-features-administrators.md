@@ -1,5 +1,10 @@
 # Administrator Features
 
+Features available to administrators of the OpenCourseMatch application
+
+> [!WARNING]
+> This section is currently under construction and will be completed soon.
+
 ## User Management
 
 ### Create User Accounts

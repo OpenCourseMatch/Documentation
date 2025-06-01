@@ -1,5 +1,7 @@
 # General Usage
 
+Basic principles of using the OpenCourseMatch application
+
 ## Access the Web Application
 
 The OpenCourseMatch web application is accessible through a web browser.

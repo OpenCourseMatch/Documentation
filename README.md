@@ -8,6 +8,9 @@
 
 </div>
 
+> [!WARNING]
+> The documentation is currently under construction and will be completed soon.
+
 ## Table of Contents
 
 - [Introduction](01-introduction.md): Motivation and core features of the OpenCourseMatch application

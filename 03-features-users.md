@@ -1,5 +1,7 @@
 # User Features
 
+Features available to normal users of the OpenCourseMatch application
+
 ## Choose Courses
 
 The user can choose courses by choosing the `Choose courses` option in the dashboard.

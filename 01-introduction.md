@@ -1,5 +1,7 @@
 # Introduction
 
+Motivation and core features of the OpenCourseMatch application
+
 ## Motivation
 
 The OpenCourseMatch application is designed to address the challenges and complexity of assigning a wide range of users based on a few preferences and constraints.
