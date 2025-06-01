@@ -1,10 +1,9 @@
----
-weight: 550
-title: "Administrator Features"
-description: "Features available to administrators of the OpenCourseMatch application"
-icon: "tips_and_updates"
-author: "OpenCourseMatch"
----
+# Administrator Features
+
+Features available to administrators of the OpenCourseMatch application
+
+> [!WARNING]
+> This section is currently under construction and will be completed soon.
 
 ## User Management
 

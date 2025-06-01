@@ -1,10 +1,6 @@
----
-weight: 400
-title: "Facilitator Features"
-description: "Features available to facilitators of the OpenCourseMatch application"
-icon: "tips_and_updates"
-author: "OpenCourseMatch"
----
+# Facilitator Features
+
+Features available to facilitators of the OpenCourseMatch application
 
 ## User Management
 
@@ -32,7 +28,8 @@ User accounts can be edited by navigating to `Participants and tutors` and then 
 This opens a form where the facilitator can edit the first name, last name, group, password, and led courses of the user.
 After clicking `Save`, the changes are saved, and the PDF file with the credentials is downloaded again.
 
-{{< alert context="info" text="Leaving the password field empty when editing the user will not reset their password. However, the downloaded PDF file does not contain the user's password in this case." />}}
+> [!NOTE]
+> Leaving the password field empty when editing the user will not reset their password. However, the downloaded PDF file does not contain the user's password in this case.
 
 ### Edit Course Choices of a User
 
